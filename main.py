@@ -1,5 +1,7 @@
 import random
+
 def Mainmenu():
+
     maximum = 21
     player = input("Введите ваше имя: ")
     player = Gamer(player)
